@@ -1,5 +1,27 @@
-star This repo for a cookie
-Contact
-https://t.me/oxiLOL https://t.me/dollarnoob THE GEN DOES NOT WORK ANYMORE. DO NOT ASK FOR SUPPORT, WE WILL NOT PROVIDE SUPPORT FOR ANY REASON AND YOU WILL BE INSTANTLY BLOCKED
+## Token Gen: 
 
-(telegram group) https://t.me/discordmp
+### Features:
+
+- `Best token gen`
+- `Unlocked tokens`
+- `Name choice`
+- `Lot of emails`
+- `Tokens are in a file`
+- `Webhook send tokens`
+- `Hcaptcha bypass`
+- `Email verificator`
+- `and lot of things`
+
+### Requirements:
+- Windows 10 / 11
+- NodeJS
+- npm i
+
+## ❗  - Important:
+- Be sur to have [NodeJS](https://nodejs.org/en/)
+![image](https://cdn.discordapp.com/attachments/943954504662007818/944201334675091536/unknown.png)
+
+## ❗  - Installation:
+```
+- start Discord Token Generator.exe
+```
